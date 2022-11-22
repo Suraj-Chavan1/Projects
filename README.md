@@ -1,2 +1,1 @@
-# newdeckrepo
- only to push 
+my new project
